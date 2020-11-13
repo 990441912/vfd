@@ -9,4 +9,4 @@ Vue.use(Antd)
 Vue.use(VueContextMenu)
 Vue.use(vcolorpicker)
 
-export default vfdlpf
+export default vfdLpf
